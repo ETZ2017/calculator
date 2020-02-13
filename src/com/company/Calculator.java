@@ -3,6 +3,12 @@ package com.company;
 
 import java.util.logging.Logger;
 
+/*
+* Header
+* Kryklyvets Yevheniia
+* 13.02.20
+* */
+
 public class Calculator {
     private String valueF;
     private String valueS;
